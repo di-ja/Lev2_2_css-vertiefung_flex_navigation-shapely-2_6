@@ -1,13 +1,3 @@
-/* 
-font-family: 'Raleway', sans-serif;
-
-Headerhöhe:76px
-Logofarbe: #666
-Logofarbe in hover: #333
-Menüfarbe: #333 
-Menüfarbe in hover: #337ab7
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;600&display=swap');
 
 html{
@@ -33,7 +23,7 @@ nav {
 .logo {
     font-family: 'Raleway', sans-serif;
     color: #666;
-    font-size: 2em;
+    font-size: 1.8em;
 }
 .logo:hover {
     color: #333;
